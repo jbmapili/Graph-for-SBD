@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MMI_Project_CSharp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UpperTime" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="UpperTemp" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="LowerTemp" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">-100</Value>
+    </Setting>
+    <Setting Name="UpperHum" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="LowerHum" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">-100</Value>
+    </Setting>
+    <Setting Name="Device" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DEV1</Value>
+    </Setting>
+    <Setting Name="Word_Reg_Prefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">W</Value>
+    </Setting>
+    <Setting Name="Bit_Reg_Prefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">M</Value>
+    </Setting>
+    <Setting Name="Temp_Pos" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1050</Value>
+    </Setting>
+    <Setting Name="Hum_Pos" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1100</Value>
+    </Setting>
+    <Setting Name="Time_Pos" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="Pattern1Start" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4192</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
